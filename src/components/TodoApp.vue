@@ -231,7 +231,7 @@ ul li label {
 
 .checkmark {
     position: absolute;
-    top: 20px;
+    top: 18px;
     left: 0;
     height: 25px;
     width: 25px;
