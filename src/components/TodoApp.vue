@@ -201,9 +201,9 @@ input{
   background: transparent;
   border: none;
   outline: none;
-  color: var(--dark-todo-text);
   font-size: 18px;
   padding-left: 15px;
+  color: var(--dark-todo-text);
   margin-left: 10px;
 }
 .add{
@@ -328,7 +328,11 @@ a{
   background: var(--light-todo-bg);
 }
 
-[theme="light"] .text, input{
+[theme="light"] .text{
+  color: black;
+}
+
+[theme="light"] input{
   color: black;
 }
 
