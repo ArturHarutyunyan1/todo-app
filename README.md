@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW)
-- Live Site URL: [Add live site URL here](https://pr-todo-app.vercel.app)
+- Solution [URL](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW)
+- Live Site [URL](https://pr-todo-app.vercel.app)
 
 ## My process
 
