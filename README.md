@@ -24,16 +24,17 @@ Users should be able to:
 - Add new todos to the list
 - Mark todos as complete
 - Delete todos from the list
-
+- Toggle light and dark mode
 
 ### Screenshot
 
 ![](./src/assets/preview.jpg)
 
+
 ### Links
 
-- Solution [URL](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW)
-- Live Site [URL](https://pr-todo-app.vercel.app)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW)
+- Live Site URL: [Add live site URL here](https://pr-todo-app.vercel.app)
 
 ## My process
 
@@ -47,6 +48,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@arturharutyunyan1](https://www.frontendmentor.io/profile/ArturHarutyunyan1)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+[Frontend Mentor](https://www.frontendmentor.io/profile/arturharutyunyan1)
